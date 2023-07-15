@@ -1,9 +1,9 @@
 This is a project on online shopping system created using Microservces Architecture in Spring Boot.
 
 It contains of four services ->
-  Product Service
-  Order Serivce
-  Inventory Service
+  Product Service,
+  Order Service,
+  Inventory Service and
   Notification Service
 
 The product service fetches the list of products.
